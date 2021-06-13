@@ -2,6 +2,8 @@
 # coding: utf-8
 # jupyter nbconvert --to script mission_to_mars.ipynb
 
+# pip installa flask
+
 # In[44]:
 
 
